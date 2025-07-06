@@ -6,7 +6,7 @@
 .profile {
     /* display: flex; */
     /* justify-content: center; */
-    height: 200vh;
+    height: 180vh;
     background-color: azure;
     border: 10px solid navy;
     min-hight: 100vh;
@@ -86,4 +86,11 @@ footer{
 footer p{
     text-align: end;
     font-size: 20px;
+}
+footer h4{
+    margin-top: 50px;
+    color: rgb(53, 88, 77);
+    margin-bottom: 20px;
+    text-align: center;
+
 }
